@@ -10,7 +10,7 @@ I'm inspired by modern, lightweight expressive technologies like Markdown.
 
 I got started on a Digital PDP-8 
 
-![pdp-8](/http://simh.trailing-edge.com/photos/pdp8.jpg
+![pdp-8](/http://simh.trailing-edge.com/photos/pdp8.jpg)
 
 but now I like Virtual Machines
 
