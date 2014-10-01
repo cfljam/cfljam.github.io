@@ -1,4 +1,6 @@
 ---
+layout: post
+title: MAPNET Workshop 2014
 published: true
 ---
 
