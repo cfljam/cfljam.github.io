@@ -34,9 +34,11 @@ Participants may just choose to look and learn and ask questions, but can also p
 - Create the Virtual Machine by issuing the following commands:
 
 ```
+
 	git clone github.com/cfljam/statgen_py_vm
 	cd statgen_py_vm
 	vagrant up
+    
 ```
 
 The first time you run this, it will take  while to fetch the base box and install software. Once it all completes you have a fresh virtual machine providing an iPython server you can access from the host machine at http://localhost:8888/. You can also access this from the shell by typing
