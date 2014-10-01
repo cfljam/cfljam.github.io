@@ -45,6 +45,7 @@ The first time you run this, it will take  while to fetch the base box and insta
 
 ```
 vagrant ssh
+
 ```
 and do what you like as 
 
