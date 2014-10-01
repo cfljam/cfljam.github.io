@@ -6,7 +6,7 @@ published: true
 
 ## Executable Explanations at MAPNET
 
-![mapnetlogo](/http://www.visg.co.nz/images/mapnet.jpg)
+![mapnetlogo](http://www.visg.co.nz/images/mapnet.jpg)
 
 ### MAPNET Selections Sweeps and iPython Workshop Wednesday 22 October 2014 
 
@@ -47,13 +47,3 @@ and do what you like as
 
 - User vagrant 
 - password vagrant
-
-
-
-
-
-
-
-
-
-
