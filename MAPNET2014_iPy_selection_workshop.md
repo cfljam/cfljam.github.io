@@ -23,9 +23,13 @@ The aim of the workshop will be to demonstrate the possibilities and power of *l
 Participants may just choose to look and learn and ask questions, but can also pre-install software to allow them to run the examples. Here's how:
 
 - Set up a user account at https://github.com/
-- install Git 
+- install [Git](http://git-scm.com/)
 - Install [Oracle VirtualBox](https://www.virtualbox.org/)
-- Install 
+- Install [Vagrant](http://git-scm.com/)
+- Open up a terminal (Git For Windows comes with **Git Bash** ) 
+- Create the Virtual Machine like so:
+
+
 
 
 
