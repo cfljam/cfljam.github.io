@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 ## Executable Explanations at MAPNET
@@ -55,4 +55,4 @@ and do what you like as
 
 
 
-Participants may choose to 
+Participants may choose to
