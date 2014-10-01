@@ -34,7 +34,7 @@ Participants may just choose to look and learn and ask questions, but can also p
 - Create the Virtual Machine by issuing the following commands:
 
 
-
+	
 	git clone github.com/cfljam/statgen_py_vm
 	cd statgen_py_vm
 	vagrant up
