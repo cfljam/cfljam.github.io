@@ -4,6 +4,8 @@ published: true
 
 ## Executable Explanations at MAPNET
 
+![mapnetlogo](/http://www.visg.co.nz/images/mapnet.jpg)
+
 ### MAPNET Selections Sweeps and iPython Workshop Wednesday 22 October 2014 
 
 As part of the 2014 [MAPNET Workshop](http://www.agresearch.co.nz/news/events/Pages/MAPNET.aspx) I will present a small some examples of using iPython Notebooks to complement demonstrations of the [selection pipeline](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4144660/) developed by VISG colleagues.
@@ -53,6 +55,3 @@ and do what you like as
 
 
 
-
-
-Participants may choose to
