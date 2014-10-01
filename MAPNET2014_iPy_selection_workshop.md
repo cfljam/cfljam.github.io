@@ -41,8 +41,8 @@ vagrant ssh
 ```
 and do what you like as 
 
--User vagrant 
--password vagrant
+- User vagrant 
+- password vagrant
 
 
 
