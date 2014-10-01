@@ -33,8 +33,6 @@ Participants may just choose to look and learn and ask questions, but can also p
 - Open up a terminal (Git For Windows comes with **Git Bash** ) 
 - Create the Virtual Machine by issuing the following commands:
 
-
-	
     git clone github.com/cfljam/statgen_py_vm
     
     cd statgen_py_vm
