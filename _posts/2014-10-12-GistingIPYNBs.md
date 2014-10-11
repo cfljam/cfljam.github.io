@@ -2,9 +2,6 @@
 published: false
 ---
 
----
-published: false
----
 
 ## Gisting iPython Notebooks
 
