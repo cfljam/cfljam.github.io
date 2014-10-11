@@ -1,7 +1,6 @@
 ---
-published: false
+published: true
 ---
-
 
 ## Gisting iPython Notebooks
 
@@ -14,4 +13,3 @@ By contrast, [Github Gist](gist.github.com) provides a much simpler versioned st
 I have made [a small iPython Notebook](http://nbviewer.ipython.org/gist/cfljam/a44c48e20a78e704ba1f), that shows how it was saved and updated to Gist.github.com as a secret gist.
 
 This is now my standard workflow for storing electronic labbook notes now (though key work may stay inside private repos). It is easy to tag and search notebooks using the GistBox web app https://app.gistboxapp.com/.
-
