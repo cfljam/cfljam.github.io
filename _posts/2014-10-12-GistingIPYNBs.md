@@ -6,7 +6,7 @@ title: Gisting iPython Notebooks
 
 ## Gisting iPython Notebooks
 
-![scipyimg](/http://www.scipy.org/_static/images/ipython.png)
+![scipyimg](http://www.scipy.org/_static/images/ipython.png)
 
 Github provides an amazing environment for developing code and data resources in a social environment but the learning curve is rather steep.
 By contrast, [Github Gist](gist.github.com) provides a much simpler versioned storage space for simple files **AND** it allows *secret* Gists which have an unguessable hash ID hidden from search engines. Sooo...
