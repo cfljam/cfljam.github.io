@@ -33,11 +33,11 @@ If you just want to explore use of Scientific Python and iPython Notebooks for g
 The examples all run on an Ubuntu Linux Virtual machine in Oracle Virtualbox, so the minimal requirement is to install Oracle VirtualBox. We will provide a machine image at the workshop. 
 If you have more time and experience, you can install from scratch using the wonders of [Vagrant](https://www.vagrantup.com/). Here's how:
 
-- [Read the Readme] (https://github.com/cfljam/statgen_py_vm/blob/master/README.md)
 - Set up a user account at https://github.com/
 - install [Git](http://git-scm.com/)
 - Install [Oracle VirtualBox](https://www.virtualbox.org/)
 - Install [Vagrant](https://www.vagrantup.com/)
+- [Read the Readme] (https://github.com/cfljam/statgen_py_vm/blob/master/README.md), especially if you are behind a firewall
 - Open up a terminal (Git For Windows comes with **Git Bash** ) 
 - Create the Virtual Machine by issuing the following commands:
 
@@ -56,10 +56,18 @@ The first time you run this, it will take  while to fetch the base box and insta
     vagrant ssh
 
 
-and do what you like as 
+and do what you like inside the VM as 
 
 - User *vagrant* 
 - password *vagrant*
+
+Restart the VM from the host machine shell 
+
+	vagrant reload
+
+or stop by
+
+	vagrant halt
 
 My  intention is to keep updating this Vagrant definition, so in future you can just generate and updated install by repeating the above process, or just pulling updated from GitHub. ie. from the command line inside the repository type
 
