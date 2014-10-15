@@ -25,6 +25,7 @@ The aim of the workshop will be to demonstrate the possibilities and power of *l
 ## Workshop Software and Pre-Requisites 
 
 Participants may just choose to look and learn and ask questions, but can also pre-install software to allow them to run the examples during or after. The intention is to demonstrate what is possible and provide motivation for learning more about these technologies.  
+
 ### Other Options
 If you just want to explore use of Scientific Python and iPython Notebooks for general data work I can recommend  installing [Anaconda Python](https://store.continuum.io/cshop/anaconda/) for Windows and Mac. If you want to try out a simpler but more robust Vagrant VM fro Data Science check out.  http://datasciencetoolbox.org/
 
