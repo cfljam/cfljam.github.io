@@ -27,7 +27,7 @@ The aim of the workshop will be to demonstrate the possibilities and power of *l
 Participants may just choose to look and learn and ask questions, but can also pre-install software to allow them to run the examples during or after. The intention is to demonstrate what is possible and provide motivation for learning more about these technologies.  
 
 ### Other Options
-If you just want to explore use of Scientific Python and iPython Notebooks for general data work I can recommend  installing [Anaconda Python](https://store.continuum.io/cshop/anaconda/) for Windows and Mac. If you want to try out a simpler but more robust Vagrant VM fro Data Science check out the [DataScienceToolBox](http://datasciencetoolbox.org/).
+If you just want to explore use of Scientific Python and iPython Notebooks for general data work I can recommend  installing [Anaconda Python](https://store.continuum.io/cshop/anaconda/) for Windows and Mac. If you want to try out a simpler but more robust Vagrant VM for Data Science check out the [DataScienceToolBox](http://datasciencetoolbox.org/).
 
 ### Our (Prototype) Virtual Machine for Statistical Genetics
 
@@ -42,11 +42,11 @@ If you have more time and experience, you can install from scratch using the won
 - Open up a terminal (Git For Windows comes with **Git Bash** ) 
 - Create the Virtual Machine by issuing the following commands:
 
-    git clone --recursive  https://github.com/cfljam/statgen_py_vm.git
+ 		git clone --recursive  https://github.com/cfljam/statgen_py_vm.git
 
-    cd statgen_py_vm
+    	cd statgen_py_vm
     
-    vagrant up
+    	vagrant up
     
 **Note** you may need to re-run the provisioning step to complete the install if stuff times out, by typing:
 
