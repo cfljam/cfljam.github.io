@@ -33,6 +33,7 @@ If you just want to explore use of Scientific Python and iPython Notebooks for g
 The examples all run on an Ubuntu Linux Virtual machine in Oracle Virtualbox, so the minimal requirement is to install Oracle VirtualBox. We will provide a machine image at the workshop. 
 If you have more time and experience, you can install from scratch using the wonders of [Vagrant](https://www.vagrantup.com/). Here's how:
 
+- [Read the Readme] (https://github.com/cfljam/statgen_py_vm/blob/master/README.md)
 - Set up a user account at https://github.com/
 - install [Git](http://git-scm.com/)
 - Install [Oracle VirtualBox](https://www.virtualbox.org/)
