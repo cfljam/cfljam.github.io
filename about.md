@@ -5,11 +5,9 @@ permalink: /about/
 published: true
 ---
 
-
-
 ### More Information
 
-I like doing science with data
+I like doing science with plants and people and data
 
 ### Contact me
 
