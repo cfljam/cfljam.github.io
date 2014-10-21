@@ -27,7 +27,13 @@ The aim of the workshop will be to demonstrate the possibilities and power of *l
 Participants may just choose to look and learn and ask questions, but can also pre-install software to allow them to run the examples during or after. The intention is to demonstrate what is possible and provide motivation for learning more about these technologies.  
 
 ### Other Options
-If you just want to explore use of Scientific Python and iPython Notebooks for general data work I can recommend  installing [Anaconda Python](https://store.continuum.io/cshop/anaconda/) for Windows and Mac. If you want to try out a simpler but more robust Vagrant VM for Data Science check out the [DataScienceToolBox](http://datasciencetoolbox.org/). For relief from electronic media, get a copy of Pandas developes Wes McKinneys book [Python for Data Analysis](http://shop.oreilly.com/product/0636920023784.do).
+
+- If you just want to explore use of Scientific Python and iPython Notebooks for general data work I can recommend  installing [Anaconda Python](https://store.continuum.io/cshop/anaconda/) for Windows and Mac. 
+- If you want to try out a simpler but more robust Vagrant VM for Data Science check out the [DataScienceToolBox](http://datasciencetoolbox.org/). 
+- For relief from electronic media, get a copy of Pandas developes Wes McKinneys book [Python for Data Analysis](http://shop.oreilly.com/product/0636920023784.do).
+- if you must work in Windows and want some core unix tools for data manipulation you should 
+	1. install [git for windows](http://git-scm.com/download/win) (not GitHub app.) which provides a command line and some tools and..
+    2. Install [GOW (Gnu on Windows)](https://github.com/bmatzelle/gow/wiki)
 
 ### Our (Prototype) Virtual Machine for Statistical Genetics
 
