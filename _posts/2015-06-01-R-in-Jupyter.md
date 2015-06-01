@@ -14,5 +14,5 @@ One answer to automating setup and exchange of complex computing environments li
 Links
 ======
 - [Introducing Rocker](http://dirk.eddelbuettel.com/blog/2014/10/23/)
-- [Running Jupyter / IPython Notebooks on Docker for Mac/Windows] (http://odewahn.github.io/docker-jumpstart/ipython-notebook.html)
+- [Running Jupyter / IPython Notebooks on Docker for Mac/Windows](http://odewahn.github.io/docker-jumpstart/ipython-notebook.html)
 
