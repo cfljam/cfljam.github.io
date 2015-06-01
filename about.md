@@ -2,14 +2,14 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
-
-Some information about you!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I like doing science with plants and people and data
+
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[john.mccallum@plantandfood.co.nz](mailto:john.mccallum@plantandfood.co.nz)

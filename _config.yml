@@ -18,14 +18,16 @@ avatar: https://avatars2.githubusercontent.com/u/268441?v=2&s=460
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: john.mccallum@plantandfood.co.nz
   facebook:
   flickr:
   github: cfljam/cfljam.github.io
   instagram:
-  linkedin:
+  linkedin: https://www.linkedin.com/pub/john-mccallum/31/6a7/237
   pinterest:
-
+  rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
+  twitter: jekyllrb
+  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
 url: http://cfljam.github.io/
 =======
 
