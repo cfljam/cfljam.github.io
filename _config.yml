@@ -28,7 +28,7 @@ footer-links:
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
   twitter: jekyllrb
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-url: http://cfljam.github.io/
+  url: http://cfljam.github.io/
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
