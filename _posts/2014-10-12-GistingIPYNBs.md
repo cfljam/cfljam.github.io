@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: Gisting iPython Notebooks
+categories: [Gist, Github]
 ---
 
 ## Gisting iPython Notebooks
