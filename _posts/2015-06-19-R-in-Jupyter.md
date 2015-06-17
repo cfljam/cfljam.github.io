@@ -6,6 +6,8 @@ categories: [R, Docker, Jupyter,Python]
 
 ## Running R in Jupyter Notebooks with  Docker
 
+![JupyR Screenshot](https://dl.dropboxusercontent.com/u/8064851/images/JuPyRScreen%20Shot.png)
+
 When Github recently [enabled rendering of Jupyter Notebooks](https://github.com/blog/1995-github-jupyter-notebooks-3)  they provided a compelling reason for R users try out the data document authoring power that [Jupyter Notebooks](https://jupyter.org/) provide. One trouble with Jupyter is that, compared to R environments like the  awesome [Rstudio](http://www.rstudio.com/), installation and configuration of Jupyter plus the  [R2py cell magics](http://rpy.sourceforge.net/rpy2.html) or [R kernels]() required to run R is quite a lot greater. [This nice blog post](http://www.michaelpacer.com/maths/r-kernel-for-ipython-notebook) by MIke Pacer describes the non-trivial install for the Jutyper R kernel on OsX.
 
 ### Docker to the Rescue
