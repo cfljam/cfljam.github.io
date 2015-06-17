@@ -1,5 +1,7 @@
 ---
+layout: post
 published: false
+categories: [R, Docker, Jupyter,Python]
 ---
 
 ## Authoring  R in Jupyter Notebooks on Docker

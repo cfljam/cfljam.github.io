@@ -5,7 +5,7 @@ title: Gisting iPython Notebooks
 categories: [Gist, Github]
 ---
 
-## Gisting iPython Notebooks
+## Gisting Jupyter(iPython) Notebooks
 
 ![scipyimg](http://www.scipy.org/_static/images/ipython.png)
 
