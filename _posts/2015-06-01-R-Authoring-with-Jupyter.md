@@ -5,6 +5,7 @@ categories: [R, Docker, Jupyter,Python]
 ---
 
 ## Authoring  R in Jupyter Notebooks on Docker
+![JupyR Screenshot](https://dl.dropboxusercontent.com/u/8064851/images/JuPyRScreen%20Shot.png)
 
 ## creating a Jupyter environment with added R
 
