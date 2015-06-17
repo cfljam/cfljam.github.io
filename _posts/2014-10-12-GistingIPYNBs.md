@@ -1,8 +1,8 @@
 ---
 published: true
 layout: post
-title: Gisting iPython Notebooks
-categories: [Gist, Github]
+title: Gisting Jupyter (iPython) Notebooks
+categories: [Gist, Github, python]
 ---
 
 ![gist](https://dl.dropboxusercontent.com/u/8064851/images/Gist_ipynb_screenshot.PNG)
