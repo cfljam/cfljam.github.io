@@ -2,7 +2,8 @@
 layout: post
 title: Running R in Jupyter Notebooks with  Docker
 published: true
-categories: [R, Docker, Jupyter, Python]
+category: R
+
 ---
 ![Docker](https://secure.gravatar.com/avatar/26da7b36ff8bb5db4211400358dc7c4e.jpg?s=200&d=mm)
 When Github recently [enabled rendering of Jupyter Notebooks](https://github.com/blog/1995-github-jupyter-notebooks-3)  they provided a compelling reason for R users try out the data document authoring power that [Jupyter Notebooks](https://jupyter.org/) provide.

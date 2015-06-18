@@ -2,9 +2,8 @@
 layout: post
 title: Authoring  R in Jupyter Notebooks on Docker
 published: false
-categories: [R, Docker, Jupyter, Python]
+category: R
 ---
-
 
 
 Although there are a number of choices I will focus on using  Docker. This provides a pretty similar environment regradless of OS. See [my previous post] on creating a [Docker definition](https://github.com/cfljam/pyRat)  for a local Jupyter server.
