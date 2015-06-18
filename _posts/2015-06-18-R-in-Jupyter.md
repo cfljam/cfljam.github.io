@@ -2,7 +2,7 @@
 layout: post
 title: Running R in Jupyter Notebooks with  Docker
 published: true
-category: R
+category: [R, Jupyter, Python]
 
 ---
 ![Docker](https://secure.gravatar.com/avatar/26da7b36ff8bb5db4211400358dc7c4e.jpg?s=200&d=mm)

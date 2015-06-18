@@ -2,8 +2,6 @@
 layout: post
 title: Hello World
 published: true
-tags: R
-category: "R"
 ---
 
 
