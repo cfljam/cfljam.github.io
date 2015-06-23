@@ -10,7 +10,7 @@ category:
 
 
 
-Although there are a number of choices I will focus on using  Docker. This provides the same  environment regardless of OS. See [my previous post] on creating a [Docker definition](https://github.com/cfljam/pyRat)  for a local Jupyter server. 
+Although you can install Jupyter + R + kernels on a PC (at least on OSX) I will focus on using  Docker. This provides the same environment regardless of OS. See [my previous post](http://cfljam.github.io/R-in-Jupyter/) on creating a [Docker definition](https://github.com/cfljam/pyRat) for a local Jupyter server. 
 
 ## Using R in  Jupyter Notebooks
 
@@ -24,7 +24,7 @@ Example Notebooks are provided in the [**Notebooks** directory](https://github.c
 
 ### Git-Oriented Workflow
 
-My workflow for using  a Dockerised notebook server to  author R notebooks  is:
+My workflow for using  a Dockerised notebook server to author R notebooks  is:
 
 1. Create a new running container with port forwarding of the notebook server port 8888 and the location of my working directory on host mounted at e.g. **/Documents**
 
