@@ -53,7 +53,7 @@ pip install rpy2
 ```
 .. this will load in R interface and also toggle inline graphs
 
-3. Read http://rpy.sourceforge.net/rpy2/doc-2.4/html/interactive.html#module-rpy2.ipython.rmagic 
+3. Read [the Rpy2 cell magics documentation](http://rpy.sourceforge.net/rpy2/doc-2.4/html/interactive.html#module-rpy2.ipython.rmagic)
 4. Run R with single line magics (%R) or cell magics (%%R)
 
 
