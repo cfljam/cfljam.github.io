@@ -2,21 +2,25 @@
 layout: post
 title: Authoring  R in Jupyter Notebooks on Docker
 published: false
-category: [R, Jupyter, Python]
+category: 
+  - R
+  - Jupyter
+  - Python
 ---
 
 
-Although there are a number of choices I will focus on using  Docker. This provides a pretty similar environment regradless of OS. See [my previous post] on creating a [Docker definition](https://github.com/cfljam/pyRat)  for a local Jupyter server.
+
+Although there are a number of choices I will focus on using  Docker. This provides the same  environment regardless of OS. See [my previous post] on creating a [Docker definition](https://github.com/cfljam/pyRat)  for a local Jupyter server. 
 
 ## Using R in  Jupyter Notebooks
 
 The  major choice you face is whether to :
-1. Use a Python kernel with option for R cell magics using  [R2py](http://rpy.sourceforge.net/rpy2.html)
-2. Use the newer R kernel
+1. Use a Python kernel with option for R cell magics using  [rpy2](http://rpy.sourceforge.net/rpy2.html)
+2. Use the newer [R kernel](https://github.com/IRkernel/IRkernel)
 
-The principal advantage of using a Python kernel is having the ability to mix R with Python and shell commands. For writing pure R documents, the R kernel provides a cleaner 'R only" look.
+The principal advantage of using a Python kernel is having the ability to mix R with Python and shell commands. For writing pure R documents, the R kernel provides a cleaner "R only" look and better inline command completion and help. 
 
-Example Notebooks are provided in the **Notebooks** directory [Githu repository](https://github.com/cfljam/pyRat/Notebooks). Github [enabled in-place rendering of these recently](https://github.com/blog/1995-github-jupyter-notebooks-3) so you can see the notebook JSON rendered as HTML.
+Example Notebooks are provided in the [**Notebooks** directory](https://github.com/cfljam/pyRat/Notebooks). Github [enabled in-place rendering of these recently](https://github.com/blog/1995-github-jupyter-notebooks-3) so you can see the notebook JSON rendered as HTML. There are still some teething problems [with graphics payload in these notebooks](https://github.com/IRkernel/IRkernel/issues/145) but the IRKernel team are onto it! 
 
 ### Git-Oriented Workflow
 
