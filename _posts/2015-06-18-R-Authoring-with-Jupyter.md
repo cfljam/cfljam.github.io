@@ -40,17 +40,32 @@ docker run -it -v /Users/johnmccallum/Documents:/Documents \
 
 ### Using R in a Python kernel with RPy2
 
+1.  if you don't have **rpy2** installed, open up a terminal and eter: 
+
+```
+pip install rpy2
+```
+
+2. In a Python 2 Notebook and type in a cell
+```
+%load_ext rpy2.ipython
+%pylab inline
+```
+.. this will load in R interface and also toggle inline graphs
+
+3. Read http://rpy.sourceforge.net/rpy2/doc-2.4/html/interactive.html#module-rpy2.ipython.rmagic 
+4. Run R with single line magics (%R) or cell magics (%%R)
 
 
 ### Using Rkernel  Notebooks
 
+Just write R!
 
-
-
-
-Many thanks to the Rocker and Jupyter teams who are doing an amazing job bringing us these expressive tools for data science!
+----------------
+Many thanks to the Rocker and Jupyter teams who are doing an amazing job bringing us these expressive tools for data science. 
 
 Links
 ======
 
 - [Running Jupyter / IPython Notebooks on Docker for Mac/Windows](http://odewahn.github.io/docker-jumpstart/ipython-notebook.html)
+- [Rpy2](http://rpy.sourceforge.net/)
