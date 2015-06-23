@@ -34,11 +34,11 @@ docker run -it -v /Users/johnmccallum/Documents:/Documents \
 ```
 2. Navigate using the Notebook browser interface to host location where I have a git repository.
 3. Create notebooks using R or python kernels.
-4. Commit notebooks to repo
-5. Optionally store notebooks as GitHub secret Gists for sharing rendered links via [nbviewer], and tag these using GistBox.
+4. Commit notebooks to repo.
+5. Optionally store notebooks as GitHub secret Gists for sharing rendered links via [http://nbviewer.ipython.org/], and tag these using [GistBox](http://www.gistboxapp.com/).
 6. Share and discuss output with collaborators via pull requests and/or Gist links
 
-### Using R in a Python kernel with R2Py
+### Using R in a Python kernel with RPy2
 
 
 
