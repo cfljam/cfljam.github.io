@@ -60,9 +60,11 @@ pip install rpy2
 ### Using Rkernel  Notebooks
 
 Just write R!
+![Calm](http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-write-r-code.png)
 
-----------------
-Many thanks to the Rocker and Jupyter teams who are doing an amazing job bringing us these expressive tools for data science. 
+Thanks!
+======
+.. to the Rocker and Jupyter teams who are doing an amazing job bringing us these expressive tools for data science. 
 
 Links
 ======
