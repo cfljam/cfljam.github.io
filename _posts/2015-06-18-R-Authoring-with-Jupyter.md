@@ -10,6 +10,7 @@ category:
 
 
 
+
 Although you can install Jupyter + R + kernels on a PC (at least on OSX) I will focus on using  Docker. This provides the same environment regardless of OS. See [my previous post](http://cfljam.github.io/R-in-Jupyter/) on creating a [Docker definition](https://github.com/cfljam/pyRat) for a local Jupyter server. 
 
 ## Using R in  Jupyter Notebooks
@@ -62,9 +63,15 @@ pip install rpy2
 Just write R!
 ![Calm](http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-write-r-code.png)
 
+### Sharing Via Gists
+
+See my earlier post on [gisting notebooks](http://cfljam.github.io/GistingIPYNBs/) and the [self-documenting gist](http://nbviewer.ipython.org/gist/cfljam/a44c48e20a78e704ba1f).
+
+You can also try rendering self-contained notebooks Gists at http://lambdaops.com/gistexec . Try [my demo notebook](http://lambdaops.com/gistexec/?gistID=a52f8c47acc7ee6890bb)
+
 Thanks!
 ======
-.. to the Rocker and Jupyter teams who are doing an amazing job bringing us these expressive tools for data science. 
+.. to the Rocker and Jupyter teams who are doing an amazing job bringing us these expressive tools for data science. Also to Kyle @rgbkrk for the amazing [gistexec](https://github.com/rgbkrk/gistexec)
 
 Links
 ======
