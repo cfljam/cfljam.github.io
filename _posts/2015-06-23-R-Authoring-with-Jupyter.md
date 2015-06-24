@@ -11,11 +11,13 @@ category:
 
 
 
+
 Although you can install Jupyter + R + kernels on a PC (at least on OSX) I will focus on using  Docker. This provides the same environment regardless of OS. See [my previous post](http://cfljam.github.io/R-in-Jupyter/) on creating a [Docker definition](https://github.com/cfljam/pyRat) for a local Jupyter server. 
 
 ## Using R in  Jupyter Notebooks
 
 The  major choice you face is whether to :
+
 1. Use a Python kernel with option for R cell magics using  [rpy2](http://rpy.sourceforge.net/rpy2.html)
 2. Use the newer [R kernel](https://github.com/IRkernel/IRkernel)
 
